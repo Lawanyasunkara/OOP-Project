@@ -1,0 +1,11 @@
+C:\Users\Lavanya\source\repos\DS-Project8\DS-Project8\bin\Debug\DS-Project8.exe.config
+C:\Users\Lavanya\source\repos\DS-Project8\DS-Project8\bin\Debug\DS-Project8.exe
+C:\Users\Lavanya\source\repos\DS-Project8\DS-Project8\bin\Debug\DS-Project8.pdb
+C:\Users\Lavanya\source\repos\DS-Project8\DS-Project8\obj\Debug\DS-Project8.csproj.AssemblyReference.cache
+C:\Users\Lavanya\source\repos\DS-Project8\DS-Project8\obj\Debug\DS-Project8.csproj.SuggestedBindingRedirects.cache
+C:\Users\Lavanya\source\repos\DS-Project8\DS-Project8\obj\Debug\DS-Project8.csproj.CoreCompileInputs.cache
+C:\Users\Lavanya\source\repos\DS-Project8\DS-Project8\obj\Debug\DS-Project8.exe
+C:\Users\Lavanya\source\repos\DS-Project8\DS-Project8\obj\Debug\DS-Project8.pdb
+C:\Users\Lavanya\source\repos\DS-Project8\DS-Project8\bin\Debug\Section9.dll
+C:\Users\Lavanya\source\repos\DS-Project8\DS-Project8\bin\Debug\Section9.pdb
+C:\Users\Lavanya\source\repos\DS-Project8\DS-Project8\obj\Debug\DS-Project8.csproj.CopyComplete

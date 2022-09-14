@@ -1,0 +1,6 @@
+C:\Users\Lavanya\source\repos\DS-Project8\Section9\bin\Debug\Section9.pdb
+C:\Users\Lavanya\source\repos\DS-Project8\Section9\obj\Debug\Section9.csproj.AssemblyReference.cache
+C:\Users\Lavanya\source\repos\DS-Project8\Section9\obj\Debug\Section9.csproj.CoreCompileInputs.cache
+C:\Users\Lavanya\source\repos\DS-Project8\Section9\obj\Debug\Section9.dll
+C:\Users\Lavanya\source\repos\DS-Project8\Section9\obj\Debug\Section9.pdb
+C:\Users\Lavanya\source\repos\DS-Project8\Section9\obj\Debug\Section9.csproj.CopyComplete
